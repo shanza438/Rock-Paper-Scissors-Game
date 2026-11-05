@@ -1,8 +1,6 @@
-
 # Python compiled files
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 
 # Virtual environment
 venv/
@@ -10,3 +8,6 @@ venv/
 
 # VS Code settings
 .vscode/
+
+# Environment variables
+.env
