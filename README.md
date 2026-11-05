@@ -81,5 +81,4 @@ No external Python libraries are currently required.
 
 ## Author
 Shanza
-**Language:** Python  
-**GUI Framework:** Tkinter
+
